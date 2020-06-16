@@ -1,0 +1,16 @@
+卷 BOOTCAMP 的文件夹 PATH 列表
+卷序列号为 0246-9FF7
+C:.
+│  error.py
+│  info.txt
+│  schedule.py
+│  Spider.py
+│  the_test_code_crawler.py
+│  utils.py
+│  
+└─__pycache__
+        db.cpython-37.pyc
+        error.cpython-37.pyc
+        Spider.cpython-37.pyc
+        utils.cpython-37.pyc
+        
